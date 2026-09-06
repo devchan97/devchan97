@@ -47,23 +47,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<a href="https://github.com/devchan97/portfolio-tycoon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devchan97&repo=portfolio-tycoon&theme=tokyonight" alt="portfolio-tycoon" />
-</a>
-<a href="https://github.com/devchan97/code-map">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devchan97&repo=code-map&theme=tokyonight" alt="code-map" />
-</a>
-<a href="https://github.com/devchan97/AuctionSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devchan97&repo=AuctionSystem&theme=tokyonight" alt="AuctionSystem" />
-</a>
-<a href="https://github.com/devchan97/unity-cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devchan97&repo=unity-cli&theme=tokyonight" alt="unity-cli" />
-</a>
-
----
-
 ## 📊 GitHub Stats
 
 ![streak](https://streak-stats.demolab.com?user=devchan97&theme=tokyonight)
